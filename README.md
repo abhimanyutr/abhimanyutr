@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhimanyu </h2>
+<h4 align="left">Hi 👋! My name is Abhimanyu </h4>
 
 ###
 
@@ -41,11 +41,3 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="25" width="90" alt="twitter logo"  /><img width="12" />
 </div>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abhimanyutr/abhimanyutr/output/snake.svg" alt="Snake animation" />
-
-###
