@@ -1,12 +1,16 @@
-<h2 align="center">Hi 👋! My name is 𝔸𝕓𝕙𝕚𝕞𝕒𝕟𝕪𝕦 </h2>
+<h2 align="center">Hi 👋! My name is 𝙰𝚋𝚑𝚒𝚖𝚊𝚗𝚢𝚞</h2>
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhimanyutr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimanyutr&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhimanyutr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=true" height="150" alt="stats graph" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimanyutr&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=abhimanyutr&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="100" width="600" />
 </div>
-
   
 ###
 
